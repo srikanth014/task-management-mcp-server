@@ -258,3 +258,4 @@ CREATE TABLE IF NOT EXISTS tasks (
 - **Environment variables**: Never commit `.env` or files containing secret API keys.
 - **Databases**: SQLite databases (`*.db`, `*.sqlite`) are ignored via `.gitignore`.
 - **Formatting**: Adhere to PEP 8 standards with type hints and docstrings on all functions.
+
